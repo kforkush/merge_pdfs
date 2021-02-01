@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="KUSH" max_length="40" name="x_323954_testscope_kush" sizeclass="0" type="collection">
+        <element label="Manager" max_length="40" name="manager" type="string"/>
+        <element label="NAME" max_length="40" name="name" type="string"/>
+    </element>
+</database>
